@@ -185,40 +185,40 @@
 							<div class="row">
 								<div class="4u">
 									<article class="item">
-										<a href="images/bestave.png" class="image full fancybox"><img src="images/bestave.png" alt="" /></a>
+										<a href="images/comp1.jpg" class="image full fancybox"><img src="images/comp1.jpg" alt="" /></a>
 										<header>
-										<h3><strong>2712 Best Ave</strong></h3>
+										<h3><strong>6440 Buena Ventura Ave</strong></h3>
 										<ul>
-											<li>3 Bed - 1 Bath</li>
-											<li>1,276 Sq Ft - 3,993 Lot</li>
-											<li>List: 7/1/13 - Pending: 7/9/13</li>
-											<li>List: $314,500 - SOLD $340,000</li>
+											<li>4 Bed - 3 Bath</li>
+											<li>2,800 Sq Ft - 4,441 Lot</li>
+											<li>List: 6/14/13 - Pending: 6/28/13</li>
+											<li>List: $479,999 - SOLD $466,000</li>
 										</ul>
 									</article>
 								</div>
 								<div class="4u">
 									<article class="item">
-										<a href="images/picardy.png" class="image full fancybox"><img src="images/picardy.png" alt="" /></a>
+										<a href="images/comp2.jpg" class="image full fancybox"><img src="images/comp2.jpg" alt="" /></a>
 										<header>
-										<h3><strong>5506 Picardy Drive</strong></h3>
+										<h3><strong>7356 Circle Hill Drive</strong></h3>
 										<ul>
-											<li>3 Bed - 1 Bath</li>
-											<li>1,316 Sq Ft - 3,774 Lot</li>
-											<li>List: 6/28/13 - Pending: 7/15/13</li>
-											<li>List: $399,900 - SOLD $360,000</li>
+											<li>3 Bed - 2 Bath</li>
+											<li>1,742 Sq Ft - 10,340 Lot</li>
+											<li>List: 6/19/13 - Pending: 7/2/13</li>
+											<li>List: $425,000 - SOLD $465,000</li>
 										</ul>
 									</article>
 								</div>
 								<div class="4u">
 									<article class="item">
-										<a href="images/rawson.jpg" class="image full fancybox"><img src="images/rawson.jpg" alt="" /></a>
+										<a href="images/comp3.jpg" class="image full fancybox"><img src="images/comp3.jpg" alt="" /></a>
 										<header>
-										<h3><strong>2515 Rawson St</strong></h3>
+										<h3><strong>6450 Buena Ventura Ave</strong></h3>
 										<ul>
-											<li>3 Bed - 1 Bath</li>
-											<li>1,092 Sq Ft - 4,300 Lot</li>
-											<li>List: 6/24/13 - Pending: 7/30/13</li>
-											<li>List: $230,000 - SOLD $230,000</li>
+											<li>3 Bed - 2 Bath</li>
+											<li>2,696 Sq Ft - 5,002 Lot</li>
+											<li>List: 8/2/13 - Pending: 8/12/13</li>
+											<li>List: $535,000 - SOLD $565,000</li>
 										</ul>
 									</article>
 								</div>
