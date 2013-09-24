@@ -264,7 +264,7 @@
 							</p>
 						</article>
 						<article class="4u ">
-							<img class="circled" src="images/BlankLogo.jpg" alt="" />
+							<img class="circled" src="images/blanklogo.jpg" alt="" />
 							<header>
 								<h3>David Nguyen</h3>
 								<span class="small">Marketing | Web</span><br>
